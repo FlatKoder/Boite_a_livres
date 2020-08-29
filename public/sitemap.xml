@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-08-21T15:05:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reglement/reglement/</loc>
+    <lastmod>2020-08-21T15:05:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/reglement/</loc>
+    <lastmod>2020-08-21T15:05:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/aporpos/apropos/</loc>
+    <lastmod>2020-08-20T14:46:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/aporpos/</loc>
+    <lastmod>2020-08-20T14:46:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2020-08-20T14:46:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/youhouuu/</loc>
+    <lastmod>2020-08-20T14:46:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/bonjour/</loc>
+    <lastmod>2020-08-20T14:19:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+  
+</urlset>

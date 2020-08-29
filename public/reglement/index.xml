@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reglements on Livre</title>
+    <link>http://example.org/reglement/</link>
+    <description>Recent content in Reglements on Livre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2020 15:05:37 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/reglement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reglement</title>
+      <link>http://example.org/reglement/reglement/</link>
+      <pubDate>Fri, 21 Aug 2020 15:05:37 +0200</pubDate>
+      
+      <guid>http://example.org/reglement/reglement/</guid>
+      <description>Comment ça marche ? Je prends un livre, c&amp;rsquo;est gratuit et sans abonnement. Je l&amp;rsquo;emporte, le lis, et reviens le re-déposer ou l&amp;rsquo;échanger contre un livre que je souhaite partager.
+Je dépose un livre. Tous les livres sont les bienvenus (romans, BD, poêsie, essais &amp;hellip; Magazine) pourvu qu&amp;rsquo;ils sont en bon état et tout public. La boite à livre s&amp;rsquo;adresses aussin bien aux plus grands, qu&amp;rsquo;aux plus petits.
+Cette boite à livre est une initiative gratuite et participative.</description>
+    </item>
+    
+  </channel>
+</rss>
